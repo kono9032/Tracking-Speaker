@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>ky_logo.png</file>
+    <file>ky_logo2.png</file>
+  </qresource>
+  <qresource prefix="img">
+    <file>background4.PNG</file>
+    <file>background.PNG</file>
+    <file>background2.PNG</file>
+    <file>background3.PNG</file>
+  </qresource>
+</RCC>
